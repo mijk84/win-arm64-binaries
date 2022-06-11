@@ -10,6 +10,6 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - 86Box
 - ScummVM
 - PCem
-- melonDS
+- melonDS (thanks Thala004 and Dantaro on reddit for pointing out missing DLL's!)
 - Chocolate Doom
 - Bochs
