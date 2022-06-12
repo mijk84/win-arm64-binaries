@@ -13,5 +13,6 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - melonDS (thanks Thala004 and Dantaro on reddit for pointing out missing DLL's!)
 - Chocolate Doom
 - Bochs
+- Commander Genius
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0D7IJT)
