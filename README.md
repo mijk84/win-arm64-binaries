@@ -16,5 +16,6 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - Commander Genius
 - SDLPoP
 - OpenJazz
+- Vice
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0D7IJT)
