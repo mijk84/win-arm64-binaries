@@ -7,10 +7,10 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 
 **List of compiled software**
-- 86Box
+- 86Box (3.7, updated 2022-07-31)
 - ScummVM
 - PCem
-- melonDS (thanks Thala004 and Dantaro on reddit for pointing out missing DLL's!)
+- melonDS (Needs testing in Windows 10 ARM64!)
 - Chocolate Doom
 - Bochs
 - Commander Genius
