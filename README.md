@@ -10,7 +10,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - 86Box (3.7, updated 2022-07-31)
 - ScummVM
 - PCem
-- melonDS (Needs testing in Windows 10 ARM64!)
+- melonDS (Does not run in Windows 10 ARM64 currently)
 - Chocolate Doom
 - Bochs
 - Commander Genius
