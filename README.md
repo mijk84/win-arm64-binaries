@@ -7,6 +7,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 
 **List of compiled software**
+- OpenOMF (New Release! 2024-08-10)
 - 86Box (3.7, updated 2022-07-31)
 - ScummVM
 - PCem
