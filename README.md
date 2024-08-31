@@ -19,4 +19,6 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - OpenJazz
 - Vice
 
+  Join us on IRC, Libera chat #winarm64
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0D7IJT)
