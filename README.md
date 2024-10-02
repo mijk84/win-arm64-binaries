@@ -8,6 +8,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 **List of compiled software**
 - OpenOMF (New Release! 2024-08-10)
+- Yabause (New Release! 2024-10-01)
 - FreeCiv (New Release! 2024-09-25)
 - Angband (New Release! 2024-09-23)
 - Space Cadet Pinball (New Release! 2024-09-22)
