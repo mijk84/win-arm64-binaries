@@ -15,7 +15,6 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - OpenLara (New Release! 2024-09-22)
 - Open SIMH 2437b13 (New Release! 2024-09-20)
 - Citra (New Release! 2024-09-16)
-- VBA-M (New Release! 2024-09-17)
 - 86Box (3.7, updated 2022-07-31)
 - ScummVM
 - PCem
