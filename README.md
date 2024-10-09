@@ -1,3 +1,7 @@
+# Windows for ARM64 Binaries
+
+All these releases were compiled by me using ClangARM64 on MSYS2. Code is sometimes modified in order to build. This is a hobby for me and I'm not really a coder. I sometimes need to compile and install dependencies within MSYS2 in order to compile releases. I won't be compiling anything that requires Visual Studio as I do not want to make a complex building system taking up 20+ GB of space. I won't be sharing the steps and logs because this is all for fun and for all the added time it would take. Should the original project owners want me to do this on their official repos, I am more than happy to do this.
+
 # win-arm64-binaries
 Software ports for Windows 10/11 ARM64
 
