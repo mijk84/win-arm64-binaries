@@ -19,9 +19,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - OpenLara (New Release! 2024-09-22)
 - Open SIMH 2437b13 (New Release! 2024-09-20)
 - Citra (New Release! 2024-09-16)
-- 86Box (3.7, updated 2022-07-31)
 - ScummVM
-- PCem
 - melonDS (Does not run in Windows 10 ARM64 currently)
 - Chocolate Doom
 - Bochs
