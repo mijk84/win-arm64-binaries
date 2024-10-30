@@ -19,7 +19,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - Angband (New Release! 2024-09-23)
 - Space Cadet Pinball (New Release! 2024-09-22)
 - OpenLara (New Release! 2024-09-22)
-- Open SIMH 2437b13 (New Release! 2024-09-20)
+- Open SIMH (New Release! 2024-09-20)
 - Citra (New Release! 2024-09-16)
 - ScummVM
 - melonDS (Does not run in Windows 10 ARM64 currently)
