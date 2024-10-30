@@ -11,16 +11,16 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 
 **List of compiled software**
-- OpenOMF (New Release! 2024-08-10)
-- PCem (New Release! 2024-10-30)
-- Chip-8 (New Release! 2024-10-28)
-- Yabause (New Release! 2024-10-01)
-- FreeCiv (New Release! 2024-09-25)
-- Angband (New Release! 2024-09-23)
-- Space Cadet Pinball (New Release! 2024-09-22)
-- OpenLara (New Release! 2024-09-22)
-- Open SIMH (New Release! 2024-09-20)
-- Citra (New Release! 2024-09-16)
+- OpenOMF
+- PCem
+- Chip-8
+- Yabause
+- FreeCiv
+- Angband
+- Space Cadet Pinball
+- OpenLara
+- Open SIMH
+- Citra
 - ScummVM
 - melonDS (Does not run in Windows 10 ARM64 currently)
 - Chocolate Doom
