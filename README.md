@@ -35,4 +35,4 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0D7IJT)
 
-<img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c1c624c0d37cd2d328_636e0b5061df290f5892d944_full_logo_black_RGB.svg" width="250" (https://discord.gg/X8YS8dG8)
+(https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c1c624c0d37cd2d328_636e0b5061df290f5892d944_full_logo_black_RGB.svg)](https://discord.gg/X8YS8dG8)
