@@ -35,4 +35,4 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0D7IJT)
 
-[![discord](https://www.svgrepo.com/download/353655/discord-icon.svg)](https://discord.gg/X8YS8dG8)
+[![discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg)](https://discord.gg/X8YS8dG8)
