@@ -12,6 +12,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 **List of compiled software**
 - OpenOMF
+- reone (KotOR,TSL engine)
 - Julius (Caesar III)
 - Chasm-FReversed
 - Tamatool
