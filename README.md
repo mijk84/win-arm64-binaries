@@ -19,7 +19,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - TileWorld
 - QtEmu
 - ARAnyM
-- QEMU 9.0.3, 8.2.7, 7.2.14
+- QEMU 9.0.4, 8.2.8, 7.2.15
 - Pokemini
 - OpenTESArena
 - Mr Boom
