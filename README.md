@@ -12,6 +12,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 **List of compiled software**
 - Supermodel (SEGA Model 3 emulator)
+- Luanti (formerly Minetest)
 - RunCPM
 - BStone
 - OpenBOR
