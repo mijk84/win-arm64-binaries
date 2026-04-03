@@ -44,7 +44,6 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 - Open SIMH
 - Citra
 - ScummVM
-- melonDS (Does not run in Windows 10 ARM64 currently)
 - Chocolate Doom
 - Bochs
 - Commander Genius
