@@ -11,6 +11,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 
 **List of compiled software**
+- M2000 (Philips P2000 emulator)
 - DingusPPC
 - AmpleWin (GUI frontend for MAME, 68K specific hardware)
 - Supermodel (SEGA Model 3 emulator)
