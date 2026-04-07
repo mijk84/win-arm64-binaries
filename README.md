@@ -11,6 +11,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 
 **List of compiled software**
+- Cadmium (Chip-8 interpreter)
 - GBE-Plus (GBA, Pokemon Mini, NDS emulator)
 - Exult (Ultima 7 remake)
 - M2000 (Philips P2000 emulator)
