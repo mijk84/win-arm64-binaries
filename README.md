@@ -11,6 +11,7 @@ All software was compiled using [MSYS2](https://www.msys2.org/) [Clangarm64](htt
 
 
 **List of compiled software**
+- PCE (By Hampa Hug - all the emulators except for macplus)
 - Vanilla Conquer (Command and Conquer engine)
 - CEmu (not that one ;) - TI-84 Plus CE / TI-83 Premium CE emulator)
 - sQLux (Sinclair QL emulator)
